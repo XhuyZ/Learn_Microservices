@@ -1,0 +1,7 @@
+###Get Users through gateway
+GET http://localhost:7000/api/user
+Accept: application/json
+
+###Get Identities through gateway
+GET http://localhost:7000/api/identity
+Accept: application/json
