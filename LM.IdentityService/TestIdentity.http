@@ -1,0 +1,2 @@
+#Get Identities
+GET http://localhost:7001/api/identity

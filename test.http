@@ -1,6 +1,0 @@
-#Get Identities
-GET http://localhost:5101/api/Identity 
-Accept:  application/json
-#Get Users
-GET  http://localhost:5079/api/User
-Accept: application/json

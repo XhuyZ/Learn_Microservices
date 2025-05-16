@@ -1,0 +1,3 @@
+#Get Users
+GET  http://localhost:7002/api/user
+Accept:  application/json
